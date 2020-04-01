@@ -1,6 +1,5 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import App from "./App";
 
 function Movie({id,title,summary,imgUrl,rating,runningTime}) {
     return (
